@@ -1,4 +1,3 @@
-#1st
 class DigitalWallet:
     def __init__(self, name, balance, daily_limit):
         self.name = name
